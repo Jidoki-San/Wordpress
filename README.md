@@ -8,8 +8,3 @@
 (Seção 3 - Habilidades)![#HABILIDADES](https://user-images.githubusercontent.com/94648043/161478941-b51a8910-83e3-41d4-b3b6-078d5f69a8cc.PNG)
 
 (Seção 4 - Contato)![#CONTATO](https://user-images.githubusercontent.com/94648043/161478981-0ab719dd-f3b8-4655-85bb-8c4bc8a18561.PNG)
-
-
-*Não foi possível colocar o menu responsivo pois deu um bug que não posso colocar menu por conta de Widget
-(Responsivo)![respo](https://user-images.githubusercontent.com/94648043/161476711-c9f863cc-50a5-4a23-b293-365c5143e07b.PNG)
-*Não foi possível colocar o menu responsivo pois deu um bug que não posso colocar menu por conta de Widget
