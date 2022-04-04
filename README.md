@@ -16,7 +16,8 @@ http://guilherme-silva.soukick.com.br/?page_id=37
 
 (Seção 4 - Contato)![#CONTATO](https://user-images.githubusercontent.com/94648043/161478981-0ab719dd-f3b8-4655-85bb-8c4bc8a18561.PNG)
 
-(Paleta de cores do site)![cores](https://user-images.githubusercontent.com/94648043/161649920-9fb50641-f12e-4b58-898e-5875b7c7194b.PNG)
+(Paleta de cores do site)
+![cores](https://user-images.githubusercontent.com/94648043/161649920-9fb50641-f12e-4b58-898e-5875b7c7194b.PNG)
 
 
 (Responsivo, porém irá ficar sem menu pois deu um bug dizendo sobre widget e não consigo resolver)![respo](https://user-images.githubusercontent.com/94648043/161480219-5561985d-cbad-4e8a-993c-f4ecdf10748b.PNG)
